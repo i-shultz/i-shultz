@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Ilya Shults 👋
+# Привет, я Илья Шульц 👋
 
-**English** · [Русский](README.ru.md)
+[English](README.md) · **Русский**
 
 ### Data Analyst
 
-Working with data: collection and storage, analytics, BI dashboards, reporting automation, and backend services around data.
+Работаю с данными: сбор и хранение, аналитика, BI-дашборды, автоматизация отчётности и бэкенд-сервисы вокруг данных.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=6F42C1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Data+Analyst;PostgreSQL+%7C+ClickHouse+%7C+MySQL;Python+%2B+pandas+%2B+SQLAlchemy;Tableau+%7C+Superset+%7C+DataLens+%7C+Visiology;Airflow+%7C+Dagster" alt="Typing SVG">
 
@@ -14,44 +14,44 @@ Working with data: collection and storage, analytics, BI dashboards, reporting a
 
 ---
 
-## About Me
+## Обо мне
 
-* 📊 Data analyst: PostgreSQL, ClickHouse, MySQL
-* 🐍 Python for analytics and automation: pandas, numpy, scikit-learn, SQLAlchemy
-* 📈 BI and visualization: Tableau, Apache Superset, Yandex DataLens, Visiology
-* 🔁 Pipeline orchestration: Apache Airflow, Dagster
-* 🤖 Building bots and backend services: Django, FastAPI, aiogram, maxapi, pyrogram
+* 📊 Аналитик данных: PostgreSQL, ClickHouse, MySQL
+* 🐍 Python для аналитики и автоматизации: pandas, numpy, scikit-learn, SQLAlchemy
+* 📈 BI и визуализация: Tableau, Apache Superset, Yandex DataLens, Visiology
+* 🔁 Оркестрация пайплайнов: Apache Airflow, Dagster
+* 🤖 Разрабатываю ботов и backend-сервисы: Django, FastAPI, aiogram, maxapi, pyrogram
 * ⚙️ DevOps: Docker, Git CI/CD, GitLab, GitHub, Gitea, nginx
-* 🗂️ Team collaboration: Jira, Confluence
+* 🗂️ Работа в команде: Jira, Confluence
 
-## Tech Stack
+## Стек
 
-**Languages & Analytics:** Python (pandas, numpy, requests, SQLAlchemy, scikit-learn, seaborn, xlsxwriter)
+**Языки и аналитика:** Python (pandas, numpy, requests, SQLAlchemy, scikit-learn, seaborn, xlsxwriter)
 
 **Backend:** Django, FastAPI, aiogram, maxapi, pyrogram
 
-**Databases:** PostgreSQL, ClickHouse, MySQL
+**Базы данных:** PostgreSQL, ClickHouse, MySQL
 
-**BI & Visualization:** Tableau, Apache Superset, Yandex DataLens, Visiology, Excel, Google Sheets
+**BI и визуализация:** Tableau, Apache Superset, Yandex DataLens, Visiology, Excel, Google Sheets
 
-**Orchestration & Data:** Apache Airflow 2.x & 3.x, Dagster, Jupyter Notebook
+**Оркестрация и данные:** Apache Airflow 2.x & 3.x, Dagster, Jupyter Notebook
 
-**Infrastructure:** Docker, REST API, nginx, MinIO / SeaweedFS S3, Zabbix, Sentry
+**Инфраструктура:** Docker, REST API, nginx, MinIO / SeaweedFS S3, Zabbix, Sentry
 
-**Repositories & CI/CD:** GitHub, GitLab, Gitea, Git CI/CD
+**Репозитории и CI/CD:** GitHub, GitLab, Gitea, Git CI/CD
 
-**Team Tools:** Jira, Confluence
+**Инструменты команды:** Jira, Confluence
 
 ---
 
-## Open to Collaboration
+## Открыт к сотрудничеству
 
-Interested in projects related to:
+Интересны проекты, связанные с:
 
-* data analytics and BI dashboards;
-* data pipelines and orchestration;
-* messenger bots and reporting automation;
-* Python backend services.
+* аналитикой данных и BI-дашбордами;
+* пайплайнами обработки данных и их оркестрацией;
+* ботами для мессенджеров и автоматизацией отчётности;
+* backend-сервисами на Python.
 
 ---
 
