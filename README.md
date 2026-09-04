@@ -4,8 +4,6 @@
 
 **English** · [Русский](README.ru.md)
 
-### Data Analyst
-
 Working with data: collection and storage, analytics, BI dashboards, reporting automation, and backend services around data.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=6F42C1&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Data+Analyst;PostgreSQL+%7C+ClickHouse+%7C+MySQL;Python+%2B+pandas+%2B+SQLAlchemy;Tableau+%7C+Superset+%7C+DataLens+%7C+Visiology;Airflow+%7C+Dagster" alt="Typing SVG">
