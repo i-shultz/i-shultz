@@ -1,10 +1,8 @@
 <div align="center">
 
-# Привет, я Илья Шульц 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6f42c1&amp;height=180&amp;section=header&amp;text=Ilya%20Shultz&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Data%20Analyst&amp;descAlignY=65&amp;descAlign=50" alt="Header banner">
 
 [English](README.md) · **Русский**
-
-### Data Analyst
 
 Работаю с данными: сбор и хранение, аналитика, BI-дашборды, автоматизация отчётности и бэкенд-сервисы вокруг данных.
 
