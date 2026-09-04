@@ -105,21 +105,6 @@ alt="GitHub profile views" >
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=i-shultz&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=7"
-  >
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=i-shultz&amp;theme=flat&amp;no-frame=true&amp;row=1&amp;column=7"
-    alt="GitHub trophies"
-  >
-</picture>
-
-</div>
-
 ---
 
 ## Contribution Snake
