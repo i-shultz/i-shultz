@@ -67,7 +67,7 @@
   <img
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=i-shultz&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github"
-    alt="Ilya Shults's GitHub statistics"
+    alt="Ilya Shultz's GitHub statistics"
   >
 </picture>
 
